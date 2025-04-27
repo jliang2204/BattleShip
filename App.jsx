@@ -1,4 +1,6 @@
-import { useState, useEffect } from 'react'
+import { useState, useEffect } from 'react';
+import "./style.css";
+
 
 //Store 4 grids, 1 per player's board, 1 per tracking hits board
 function App() {
